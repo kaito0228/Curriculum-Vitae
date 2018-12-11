@@ -4,7 +4,7 @@
 
 |key|value|
 |---|:----|
-|Name|kaito|
+|Name|白井 亮 (Shirai Ryo)|
 |Blog|http://kaito0228.hatenablog.com/|
 |Twitter|https://twitter.com/kaito2280|
 |Qiita|https://qiita.com/a________kaito|
