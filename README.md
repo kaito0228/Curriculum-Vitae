@@ -3,12 +3,13 @@
 ## 基本情報
 
 |key|value|
-|---|-----|
+|---|:----|
 |Name|kaito|
-|Blog||
-|Twitter||
-|Qiita||
+|Blog|http://kaito0228.hatenablog.com/|
+|Twitter|https://twitter.com/kaito2280|
+|Qiita|https://qiita.com/a________kaito|
 |Wantedly|https://www.wantedly.com/secret_profiles/pr9YryFe-Sz11gCXbjq7YTRbGk0zxEas|
+|AtCoder|http://atcoder.jp/user/kaito2280|
 
 ## スキル
 
@@ -32,6 +33,8 @@
 
 - Asciidoc
 
+<!---
+
 ## 強み
 
 ## やったことはないが興味があるもの
@@ -39,6 +42,7 @@
 ## 登壇歴
 
 ## 受賞歴
+-->
 
 ## 職務経歴
 
