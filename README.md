@@ -20,7 +20,6 @@ key|value|
   - Python
   - Go
   - TypeScript
-  - Ruby
 - 日本語
   - ネイティブ
 - 英語
@@ -29,8 +28,6 @@ key|value|
 ### フレームワーク
 
 - Angular
-- Django
-- Ruby on Rails
 
 ### その他
 
