@@ -7,7 +7,7 @@ key|value|
 |Name|白井 亮 (Shirai Ryo)|
 |Blog|http://kaito0228.hatenablog.com/|
 |Twitter|https://twitter.com/kaito2280|
-|Qiita|https://qiita.com/a________kaito|
+|Qiita|https://qiita.com/a________________________kaito|
 |Wantedly|https://www.wantedly.com/secret_profiles/pr9YryFe-Sz11gCXbjq7YTRbGk0zxEas|
 |AtCoder|http://atcoder.jp/user/kaito2280|
 
@@ -17,17 +17,19 @@ key|value|
 
 - プログラミング言語
   - Java
-  - Python
-  - Go
+  - Ruby
+  - JavaScript
   - TypeScript
 - 日本語
   - ネイティブ
 - 英語
-  - 海外開発チームと文章/WebMTGでやり取り程度
+  - 海外開発チームと文章/WebMTGでやり取り・ドキュメント確認程度
 
 ### フレームワーク
 
+- Ruby on Rails
 - Angular
+- （React）
 
 ### その他
 
@@ -46,7 +48,9 @@ key|value|
 
 ## 職務経歴
 
-### 2018/04 - : Works Applications Co., Ltd.
+### 2018/04 - 2019/02 : Works Applications Co., Ltd.
+
+事業内容: 大手企業向けERPパッケージの開発・販売/人事・給与部門においてシェア日本一
 
 職務: 業務基盤系の部署で承認業務周りの仕様デザイン・仕様回答・導入支援・業務改善・ドキュメンテーション
 
@@ -57,3 +61,23 @@ key|value|
 - 顧客への仕様回答資料作成
 - Cacooを用いた改善要望機能のワイヤーフレーム設計
 - 機能仕様策定
+
+### 2019/03 - : Toremoro Inc.
+
+事業内容: ASMRを主としたデジタルリラクゼーションコンテンツ作成・アプリの開発
+
+職務: サーバーサイドエンジニア,Webフロントエンジニア,事業開発,雑務,(データ分析)
+
+- サーバーサイド、Webフロントの開発全般
+- サービス企画
+- 提携クリエイターが用いる管理画面の作成（React, JavaScript, Recharts, MongoDB, tagify, datepicker, sorcery）
+- ランキング機能（Redis）
+- push通知（firebase_cloud_messenger）
+- 動画のダイレクトアップロード（ActiveStorage, JavaScript, S3）
+- 検索機能/インデックス（Algolia, mecab）
+- サーバー負荷の最適化（AlgoliaIndexing, puma_worker_killer, New Relic, Logentries）
+- Ruby/Rails/gem/npmのバージョンアップ 
+- データ基盤の整理・ログ分析（Firebase, Heroku, PostgreSQL, Google Sheets, BigQuery, DataStudio, AppStoreConnect, AppFollow, AppAnnie）
+- 業務改善/動画分析用のツール作成（Ruby, Python, GAS, Slack）
+- 広告運用（Apple Search Ads, Google Ads）
+- 動画コンテンツの企画・分析
