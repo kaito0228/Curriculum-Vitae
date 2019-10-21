@@ -10,6 +10,7 @@ key|value|
 |Qiita|https://qiita.com/a________________________kaito|
 |Wantedly|https://www.wantedly.com/secret_profiles/pr9YryFe-Sz11gCXbjq7YTRbGk0zxEas|
 |AtCoder|http://atcoder.jp/user/kaito2280|
+|LAPRAS|https://lapras.com/public/GZ3NTRI|
 
 ## スキル
 
