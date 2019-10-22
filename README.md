@@ -70,7 +70,7 @@
 - Cacooを用いた改善要望機能のワイヤーフレーム設計
 - 機能仕様策定
 
-### 2019/03 - : Toremoro Inc.
+### 2019/03 - : [Toremoro Inc.](https://toremoro.app/)
 
 #### 【事業内容】
 
