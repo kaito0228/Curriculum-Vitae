@@ -2,9 +2,9 @@
 
 ## 基本情報
 
-key|value|
 |---|:----|
 |Name|白井 亮 (Shirai Ryo)|
+|GitHub|https://github.com/kaito0228|
 |Blog|http://kaito0228.hatenablog.com/|
 |Twitter|https://twitter.com/kaito2280|
 |Qiita|https://qiita.com/a________________________kaito|
@@ -30,7 +30,7 @@ key|value|
 
 - Ruby on Rails
 - Angular
-- （React）
+- React
 
 ### その他
 
@@ -65,7 +65,7 @@ key|value|
 
 ### 2019/03 - : Toremoro Inc.
 
-事業内容: ASMRを主としたデジタルリラクゼーションコンテンツ作成・アプリの開発
+事業内容: ASMRを主としたデジタルリラクゼーションコンテンツ作成・動画アプリの開発
 
 職務: サーバーサイドエンジニア,Webフロントエンジニア,事業開発,雑務,(データ分析)
 
