@@ -50,7 +50,7 @@
 
 ## 職務経歴
 
-### 2018/04 - 2019/02 : Works Applications Co., Ltd.
+### 2018/04 - 2019/02 : [Works Applications Co., Ltd.](https://www.worksap.co.jp/)
 
 #### 【事業内容】
 
