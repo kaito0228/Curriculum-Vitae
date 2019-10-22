@@ -39,7 +39,7 @@
 
 ## Career
 
-### 2018/04 - 2019/02 : [Works Applications Co., Ltd.](https://www.worksap.co.jp/)
+### 2018/04 - 2019/02 : [Works Applications Co., Ltd.](https://www.worksap.com/)
 
 #### 【Services】
 
@@ -60,7 +60,7 @@ Specification design, specification answer, introduction support, business impro
 - Wire frame design for improvement request function using Cacoo
 - Functional specification formulation
 
-### 2019/03 - : [Toremoro Inc.](https://toremoro.app/)
+### 2019/03 - : [Toremoro Inc.](https://toremoro.app/en)
 
 #### 【Services】
 
