@@ -81,15 +81,16 @@ ASMRを主としたデジタルリラクゼーションコンテンツ作成・�
 サーバーサイドエンジニア,Webフロントエンジニア,事業開発,雑務,(データ分析)
 
 #### 【業務内容】
-- サーバーサイド、Webフロントの開発全般
+- サーバーサイド、Webフロントの開発
+  - 各種APIの開発
+  - 提携クリエイターが用いる管理画面の作成（React, JavaScript, Recharts, MongoDB, tagify, datepicker, sorcery）
+  - ランキング機能（Redis）
+  - push通知（firebase_cloud_messenger）
+  - 動画のダイレクトアップロード（ActiveStorage, JavaScript, S3）
+  - 検索機能/インデックス（Algolia, mecab）
+  - サーバー負荷の最適化（AlgoliaIndexing, puma_worker_killer, New Relic, Logentries）
+  - Ruby/Rails/gem/npmのバージョンアップ 
 - サービス企画
-- 提携クリエイターが用いる管理画面の作成（React, JavaScript, Recharts, MongoDB, tagify, datepicker, sorcery）
-- ランキング機能（Redis）
-- push通知（firebase_cloud_messenger）
-- 動画のダイレクトアップロード（ActiveStorage, JavaScript, S3）
-- 検索機能/インデックス（Algolia, mecab）
-- サーバー負荷の最適化（AlgoliaIndexing, puma_worker_killer, New Relic, Logentries）
-- Ruby/Rails/gem/npmのバージョンアップ 
 - データ基盤の整理・ログ分析（Firebase, Heroku, PostgreSQL, Google Sheets, BigQuery, DataStudio, AppStoreConnect, AppFollow, AppAnnie）
 - 業務改善/動画分析用のツール作成（Ruby, Python, GAS, Slack）
 - 広告運用（Apple Search Ads, Google Ads）
