@@ -60,7 +60,7 @@ Specification design, specification answer, introduction support, business impro
 - Wire frame design for improvement request function using Cacoo
 - Functional specification formulation
 
-### 2019/03 - : [Toremoro Inc.](https://toremoro.app/en)
+### 2019/03 - 2019/12 : [Toremoro Inc.](https://toremoro.app/en)
 
 #### 【Services】
 
@@ -85,3 +85,21 @@ Server side engineer, Web front engineer, Business development, Data analysis, M
 - Tool creation for business improvement / video analysis (Ruby, Python, GAS, Slack)
 - Ad operations (Apple Search Ads, Google Ads)
 - Planning and analysis of video content
+
+### 2020/01 - : [Kaizen Platform Inc.](https://kaizenplatform.com/)
+
+#### 【Services】
+
+Development and operation of "Kaizen Platform" and "Kaizen Ad"
+
+- "Kaizen Platform"
+  Growth hacker network platform for requesting improvement proposals from professionals around the world
+
+- "Kaizen Ad"
+  Video ad improvement service
+
+#### 【Duties】
+
+Server side engineer
+
+#### 【Business description】

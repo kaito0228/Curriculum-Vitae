@@ -70,7 +70,7 @@
 - Cacooを用いた改善要望機能のワイヤーフレーム設計
 - 機能仕様策定
 
-### 2019/03 - : [Toremoro Inc.](https://toremoro.app/)
+### 2019/03 - 2019/12 : [Toremoro Inc.](https://toremoro.app/)
 
 #### 【事業内容】
 
@@ -95,3 +95,21 @@ ASMRを主としたデジタルリラクゼーションコンテンツ作成・�
 - 業務改善/動画分析用のツール作成（Ruby, Python, GAS, Slack）
 - 広告運用（Apple Search Ads, Google Ads）
 - 動画コンテンツの企画・分析
+
+### 2020/01 - : [Kaizen Platform Inc.](https://kaizenplatform.com/)
+
+#### 【事業内容】
+
+『Kaizen Platform』『Kaizen Ad』の開発・運営
+
+- 『Kaizen Platform』
+世界中のプロフェッショナルに改善提案を依頼できるグロースハッカーネットワーク・プラットフォーム
+
+- 『Kaizen Ad』
+動画広告改善サービス
+
+#### 【職務】
+
+サーバーサイドエンジニア
+
+#### 【業務内容】
