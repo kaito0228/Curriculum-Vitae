@@ -27,7 +27,7 @@
 - English
   - Interacting with overseas development team via text / WebMTG and document confirmation
 
-### Framework
+### Framework/Library
 
 - Ruby on Rails
 - Angular
@@ -71,7 +71,7 @@ Development of ASMR video App
 Server side engineer, Web front engineer, Business development, Data analysis, Management
 
 #### 【Business description】
-- Server side, web front development
+- Server side, Web front development
 	- Development of various APIs
 	- Created management screens used by affiliated creators (React, JavaScript, Recharts, MongoDB, tagify, datepicker, sorcery)
 	- Ranking function (Redis)
@@ -100,6 +100,9 @@ Development and operation of "Kaizen Platform" and "Kaizen Ad"
 
 #### 【Duties】
 
-Server side engineer
+Application engineer
 
 #### 【Business description】
+
+- Server side development
+  - Development of advertising search function (Cloud Search) 
