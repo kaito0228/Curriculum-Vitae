@@ -7,6 +7,7 @@
 |Name|白井 亮 (Shirai Ryo)|
 |GitHub|https://github.com/kaito0228|
 |Blog|http://kaito0228.hatenablog.com/|
+|note|https://note.com/kaito2280|
 |Twitter|https://twitter.com/kaito2280|
 |Qiita|https://qiita.com/a________________________kaito|
 |Wantedly|https://www.wantedly.com/secret_profiles/pr9YryFe-Sz11gCXbjq7YTRbGk0zxEas|
