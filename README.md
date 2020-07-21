@@ -115,4 +115,5 @@ ASMRを主としたデジタルリラクゼーションコンテンツ作成・�
 #### 【業務内容】
 
 - サーバーサイドの開発
-  - 広告検索基盤の開発（Cloud Search）
+  - 広告検索基盤の設計/開発（ECS/Cloud Search/Batch/Cloud Watch）
+  - 動画広告改善サービスの設計/開発（EC2,Ruby, Ruby on Rails）
