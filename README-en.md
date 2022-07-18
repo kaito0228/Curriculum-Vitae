@@ -2,40 +2,44 @@
 
 ## Profile
 
-|key|value|
-|---|:----|
-|Name|Ryo Shirai|
-|GitHub|https://github.com/kaito0228|
-|Blog|http://kaito0228.hatenablog.com/|
-|Twitter|https://twitter.com/kaito2280|
-|Qiita|https://qiita.com/a________________________kaito|
-|Wantedly|https://www.wantedly.com/secret_profiles/pr9YryFe-Sz11gCXbjq7YTRbGk0zxEas|
-|AtCoder|http://atcoder.jp/user/kaito2280|
-|LAPRAS|https://lapras.com/public/GZ3NTRI|
+| key      | value                                            |
+| -------- |:------------------------------------------------ |
+| Name     | Ryo Shirai                                       |
+| GitHub   | https://github.com/kaito0228                     |
+| Blog     | http://kaito0228.hatenablog.com/                 |
+| Twitter  | https://twitter.com/kaito2280                    |
+| Qiita    | https://qiita.com/a________________________kaito |
+| Wantedly | https://www.wantedly.com/id/ryo_shirai228        |
+| LAPRAS   | https://lapras.com/public/GZ3NTRI                |
+| LinkedIn | https://www.linkedin.com/in/ryo-shirai/          |
+| AtCoder  | http://atcoder.jp/user/kaito2280                 |
 
 ## Skill
 
 ### Language
 
 - Programming
-  - Java
   - Ruby
   - JavaScript
   - TypeScript
+  - Java
 - Japanese
   - Native
 - English
   - Interacting with overseas development team via text / WebMTG and document confirmation
 
+
 ### Framework/Library
 
 - Ruby on Rails
-- Angular
 - React
+- Angular
 
 ### Other
 
-- AsciiDoc
+- Engineering Team Management
+- Business Development
+- Recruitment
 
 ## Career
 
@@ -71,15 +75,16 @@ Development of ASMR video App
 Server side engineer, Web front engineer, Business development, Data analysis, Management
 
 #### 【Business description】
+
 - Server side, Web front development
-	- Development of various APIs
-	- Created management screens used by affiliated creators (React, JavaScript, Recharts, MongoDB, tagify, datepicker, sorcery)
-	- Ranking function (Redis)
-	- Push notification (firebase_cloud_messenger)
-	- Direct video upload (ActiveStorage, JavaScript, S3)
-	- Search function / index (Algolia, mecab)
-	- Server load optimization (AlgoliaIndexing, puma_worker_killer, New Relic, Logentries)
-	- Ruby / Rails / gem / npm version up
+  - Development of various APIs
+  - Created management screens used by affiliated creators (React, JavaScript, Recharts, MongoDB, tagify, datepicker, sorcery)
+  - Ranking function (Redis)
+  - Push notification (firebase_cloud_messenger)
+  - Direct video upload (ActiveStorage, JavaScript, S3)
+  - Search function / index (Algolia, mecab)
+  - Server load optimization (AlgoliaIndexing, puma_worker_killer, New Relic, Logentries)
+  - Ruby / Rails / gem / npm version up
 - Service planning
 - Data base organization / log analysis (Firebase, Heroku, PostgreSQL, Google Sheets, BigQuery, DataStudio, AppStoreConnect, AppFollow, AppAnnie)
 - Tool creation for business improvement / video analysis (Ruby, Python, GAS, Slack)
