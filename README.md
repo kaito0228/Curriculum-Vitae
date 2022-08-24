@@ -1,4 +1,9 @@
-# 職務経歴書
+<div align="center">
+  <h1>職務経歴書</h1>
+  <p>
+    <strong>Curriculum Vitae</strong>
+  </p>
+</div>
 
 ## 基本情報
 
